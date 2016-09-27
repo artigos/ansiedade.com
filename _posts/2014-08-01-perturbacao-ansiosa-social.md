@@ -4,7 +4,7 @@ title: Perturbação ansiosa social
 permalink: perturbacao-ansiosa-social
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Anteriormente denominada fobia social, a perturbação ansiosa social é caracterizada pelo medo de ser escrutinado e negativamente avaliado por outros. Pode manifestar-se como medo de falar em público, de actuar, de participar em eventos sociais, de utilizar casas de banho públicas ou de escrever o nome em público. Os doentes podem abordar situações sociais com ansiedade considerável ou podem evitá-las a todo o custo. Tal como a maior parte das pessoas com fobias, os doentes com uma perturbação ansiosa social reconhecem que o seu medo é excessivo.
 

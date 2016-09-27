@@ -4,7 +4,7 @@ title: Tratamento da ansiedade
 permalink: tratamento
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A identificação e a abordagem do comportamento de fuga são aspectos importantes do tratamento. Os doentes necessitam de quebrar o ciclo de fuga e ansiedade, permitindo a si próprios estar em situações que os tornam ansiosos. Como primeiro passo para lidar com a PSPT, deverá encorajar os doentes a transformarem a atitude de fuga, que é um mecanismo passivo para lidar com as situações, numa atitude ativa, sugerindo que realizem atividades que lhes desviem a atenção do traumatismo e que os mantenham envolvidos nas suas vidas.
 
@@ -12,11 +12,11 @@ Em última análise, a eliminação da atitude de fuga pode requerer tratamento 
 
 Duas abordagens alternativas demonstraram igualmente eficácia clínica.
 
-##Farmacoterapia
+## Farmacoterapia
 
 Os inibidores selectivos da recaptação da serotonina (ISRSs) constituem a base do tratamento farmacológico para as perturbações ansiosas. As benzodiazepinas (BZDs) são por vezes eficazes nos indivíduos com uma doença resistente ao tratamento. Contudo, nem todos os fármacos destas classes se encontram aprovadas pela FDA para o tratamento das perturbações ansiosas.
 
-###ISRSs
+### ISRSs
 
 Os ISRSs — o citalopram, o escitalopram, a fluoxetina, a fluvoxamina, a paroxetina e a sertralina — demonstraram ser eficazes em todas as perturbações ansiosas exceptuando as fobias específicas, embora os resultados sejam menos significativos nos doentes com PAG. Se um determinado ISRS for ineficaz ou se causar efeitos secundários intensos, podem efectuar-se ensaios terapêuticos com 1 ou 2 outros fármacos. O perfil de efeitos secundários pode ser útil para a escolha de um agente.
 
@@ -34,7 +34,7 @@ Diversos outros agentes e classes farmacológicas foram já experimentados nas p
 * A utilização de anti-psicóticos atípicos nas perturbações ansiosas deve ser reservada aos doentes extremamente agitados ou resistentes ao tratamento, de preferência após referenciação. Um especialista pode ponderar o tratamento com olanzapina para as perturbações graves do sono.
 * As associações de medicamentos são por vezes benéficas nos doentes extremamente ansiosos. Por exemplo, a associação de sertralina com clonazepam demonstrou resultar numa melhoria mais rápida do que com a sertralina isolada nos doentes com perturbação de pânico. Nesse ensaio, o clonazepam foi administrado durante as primeiras 4 semanas do estudo e depois reduzido progressivamente ao longo de 3 semanas e suspenso.
 
-##Terapêutica não farmacológica
+## Terapêutica não farmacológica
 
 Muitos doentes preferem a terapêutica psicológica à farmacoterapia e a combinação da psicoterapia com a terapêutica farmacológica é considerada mais eficaz do que qualquer das modalidades isolada. No entanto, a psicoterapia para as perturbações ansiosas é altamente especializada e requer a procura dum profissional com bastante experiência no único método que demonstrou ser bem sucedido para as perturbações ansiosas, a TCC.
 

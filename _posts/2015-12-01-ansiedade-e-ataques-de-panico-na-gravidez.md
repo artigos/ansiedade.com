@@ -4,7 +4,7 @@ title: Ansiedade e ataques de pânico na gravidez
 permalink: ansiedade-e-ataques-de-panico-na-gravidez
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Ter algum nível de ansiedade e estresse durante a gravidez é normal. Isso só se torna uma problema quando está fora de controle e você se sente ansiosa o tempo todo (‘Síndrome da Ansiedade Generalizada’), ou tem súbitas ondas intensas de ansiedade (‘ataques de pânico’).
 
@@ -12,7 +12,7 @@ Se sua ansiedade ficar intensa demais, ou durar muito tempo, ela pode realmente 
 
 O medo do parto – conhecido como tokofobia – também é classificado como um tipo de ansiedade.
 
-##Eu tenho ansiedade?
+## Eu tenho ansiedade?
 
 Os sintomas da ansiedade podem incluir:
 
@@ -31,15 +31,15 @@ Os ataques de pânico têm os mesmos sintomas. Eles começam repentinamente e ch
 
 Os sintomas físicos da ansiedade e dos ataques de pânicos podem te fazer pensar que você tem uma séria doença física, ou que está tendo um ataque do coração, o que pode te deixar ainda mais ansiosa.
 
-##Depressão e ansiedade
+## Depressão e ansiedade
 
 Algumas pessoas também podem começar a sofrer com a depressão durante a gravidez, como resultado da ansiedade. Leia nosso guia sobre a depressão pré-natal para descobrir mais. 
 
-##Quão comum é a ansiedade?
+## Quão comum é a ansiedade?
 
 Muito comum. Mais de uma em cada dez mulheres gravidez apresentam ansiedade. 
 
-##O que eu devo fazer?
+## O que eu devo fazer?
 
 Diga ao seu obstetra ou médico se já apresentou ansiedade no passado, ou se tem esses sintomas agora que está grávida. 
 
@@ -53,7 +53,7 @@ O importante é deixar alguém saber, para que a ajuda adequada possa ser encont
 
 Seu obstetra ou médico deve te fazer uma série de perguntas que foram pensadas para descobrir o seu nível de ansiedade. O tratamento vai depender do resultado. 
 
-##Quais são os fatores de risco para desenvolver ansiedade?
+## Quais são os fatores de risco para desenvolver ansiedade?
 
 Qualquer um pode desenvolver ansiedade, mas algumas coisas aumentam a probabilidade:
 
@@ -64,7 +64,7 @@ Qualquer um pode desenvolver ansiedade, mas algumas coisas aumentam a probabilid
 * Se você tem depressão
 * Se você está sob muito estresse.
 
-##Qual é o tratamento para ansiedade?
+## Qual é o tratamento para ansiedade?
 
 A síndrome da ansiedade generalizada e os ataques de pânico geralmente são tratados com o uso de ténicas de auto-ajuda, baseadas na terapia cognitivo-comportamental (TCC). Se você tem ansiedade leve, talvez não precise de tratamento. Seu médico vai discutir as opções com você. 
 
@@ -72,7 +72,7 @@ Se você já tomava medicação para ansiedade antes de engravidar, o médico va
 
 Ele vai falar com você sobre potencialmente parar a medicação e seguir para o tratamento psicológico, como a TCC, ou trocar para uma medicação que apresente menos riscos, mas ainda funcione. 
 
-##Como posso me acalmar? 
+## Como posso me acalmar? 
 
 Aqui estão algumas maneiras de lidar com seu estresse e reduzir a ansiedade no trabalho e em casa:
 
